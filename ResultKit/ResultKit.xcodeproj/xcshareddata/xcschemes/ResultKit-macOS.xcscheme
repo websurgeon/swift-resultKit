@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "D0862213212FF13000AD9D44"
-               BuildableName = "TemplateFramework.framework"
-               BlueprintName = "TemplateFramework-macOS"
-               ReferencedContainer = "container:TemplateFramework.xcodeproj">
+               BuildableName = "ResultKit.framework"
+               BlueprintName = "ResultKit-macOS"
+               ReferencedContainer = "container:ResultKit.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "D086221B212FF13000AD9D44"
-               BuildableName = "TemplateFrameworkTests.xctest"
-               BlueprintName = "TemplateFramework-macOSTests"
-               ReferencedContainer = "container:TemplateFramework.xcodeproj">
+               BuildableName = "ResultKitTests.xctest"
+               BlueprintName = "ResultKit-macOSTests"
+               ReferencedContainer = "container:ResultKit.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -43,9 +43,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D0862213212FF13000AD9D44"
-            BuildableName = "TemplateFramework.framework"
-            BlueprintName = "TemplateFramework-macOS"
-            ReferencedContainer = "container:TemplateFramework.xcodeproj">
+            BuildableName = "ResultKit.framework"
+            BlueprintName = "ResultKit-macOS"
+            ReferencedContainer = "container:ResultKit.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -65,9 +65,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D0862213212FF13000AD9D44"
-            BuildableName = "TemplateFramework.framework"
-            BlueprintName = "TemplateFramework-macOS"
-            ReferencedContainer = "container:TemplateFramework.xcodeproj">
+            BuildableName = "ResultKit.framework"
+            BlueprintName = "ResultKit-macOS"
+            ReferencedContainer = "container:ResultKit.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -83,9 +83,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D0862213212FF13000AD9D44"
-            BuildableName = "TemplateFramework.framework"
-            BlueprintName = "TemplateFramework-macOS"
-            ReferencedContainer = "container:TemplateFramework.xcodeproj">
+            BuildableName = "ResultKit.framework"
+            BlueprintName = "ResultKit-macOS"
+            ReferencedContainer = "container:ResultKit.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>

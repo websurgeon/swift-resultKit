@@ -4,9 +4,9 @@
 
 import Foundation
 import XCTest
-import TemplateFramework
+import ResultKit
 
-class TemplateFrameworkTests: XCTestCase {
+class ResultKitTests: XCTestCase {
 
     func test_something() {
         let sut = TemplateValue()
