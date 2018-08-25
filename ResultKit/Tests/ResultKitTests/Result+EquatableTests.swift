@@ -48,20 +48,5 @@ class Result_Equatable: XCTestCase {
         
         XCTAssertNotEqual(lhs, rhs)
     }
-    
-    private func makeSuccessResult<T: Equatable>(_ value: T) -> Result<T, StubError> {
-        return .success(value)
-    }
 
-    private func makeFailureResult(_ error: StubError = StubError()) -> Result<String, StubError> {
-        return .failure(error)
-    }
-
-}
-
-private struct StubError: Error, Equatable {
-    let message: String
-    init(_ message: String = "test.error") {
-        self.message = message
-    }
 }
