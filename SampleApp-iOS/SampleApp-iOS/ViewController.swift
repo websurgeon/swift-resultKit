@@ -3,6 +3,7 @@
 //
 
 import UIKit
+import ResultKit
 
 class ViewController: UIViewController {
 

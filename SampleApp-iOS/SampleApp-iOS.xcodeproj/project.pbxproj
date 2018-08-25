@@ -13,6 +13,7 @@
 		D014E65A21315E16001936D7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D014E65921315E16001936D7 /* Assets.xcassets */; };
 		D014E65D21315E16001936D7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D014E65B21315E16001936D7 /* LaunchScreen.storyboard */; };
 		D014E66821315E16001936D7 /* SampleApp_iOSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D014E66721315E16001936D7 /* SampleApp_iOSTests.swift */; };
+		D014E68C21315F04001936D7 /* ResultKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D014E68B21315F04001936D7 /* ResultKit.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		D014E66321315E16001936D7 /* SampleApp-iOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "SampleApp-iOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D014E66721315E16001936D7 /* SampleApp_iOSTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleApp_iOSTests.swift; sourceTree = "<group>"; };
 		D014E66921315E16001936D7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D014E68B21315F04001936D7 /* ResultKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = ResultKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,6 +45,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D014E68C21315F04001936D7 /* ResultKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -62,6 +65,7 @@
 				D014E65121315E12001936D7 /* SampleApp-iOS */,
 				D014E66621315E16001936D7 /* SampleApp-iOSTests */,
 				D014E65021315E12001936D7 /* Products */,
+				D014E68A21315F04001936D7 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -94,6 +98,14 @@
 				D014E66921315E16001936D7 /* Info.plist */,
 			);
 			path = "SampleApp-iOSTests";
+			sourceTree = "<group>";
+		};
+		D014E68A21315F04001936D7 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				D014E68B21315F04001936D7 /* ResultKit.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
